@@ -37,6 +37,3 @@ rm -rf /var/fpkg/packages/$PACKAGE
 echo "Remove $PACKAGE success!"
 export REMOVE_SUCCESS="1"
 ```
-
-*If you want to package your own software, see [[Packaging your own Software for FPKG]]*
-*Back to homepage: [[FPKG Quick Start Guide]]*
