@@ -1,4 +1,4 @@
-#### Installing and removing packages
+# Installing and removing packages
 - To install a package, use the `-i` option. 
    Example:
 ```
